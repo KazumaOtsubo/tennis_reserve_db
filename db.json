@@ -2,24 +2,24 @@
 	"program":[
 		{
 			"id": 1,
-			"startDate": "2024-2-4 15:00",
-			"endDate": "2024-2-4 17:00",
+			"startDate": "2024年2月4日:15時00分",
+			"endDate": "2024年2月4日:17時00分",
 			"place": "浮間公園",
 			"status": "yet",
 			"registrant": "○○太郎"
 		},
 		{
 			"id": 2,
-			"startDate": "2024-2-5 19:00",
-			"endDate": "2024-2-5 21:00",
+			"startDate": "2024年2月5日:19時00分",
+			"endDate": "2024年2月5日:21時00分",
 			"place": "札幌",
 			"status": "lose",
 			"registrant": "○○太郎"
 		},
 		{
 			"id": 3,
-			"startDate": "2024-2-9 10:00",
-			"endDate": "2024-2-9 12:00",
+			"startDate": "2024年2月9日:10時00分",
+			"endDate": "2024年2月9日:12時00分",
 			"place": "日本橋",
 			"status": "win",
 			"registrant": "○○太郎"
