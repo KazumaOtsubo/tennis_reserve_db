@@ -1,13 +1,15 @@
-[
-  {
-    "postId": 1,
-    "id": 1,
-    "name": "id labore ex et quam laborum",
-    "email": "Eliseo@gardner.biz"  },
-  {
-    "postId": 100,
-    "id": 500,
-    "name": "ex eaque eum natus",
-    "email": "Emma@joanny.ca"
-  }
-]
+{
+  "post":[
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "id labore ex et quam laborum",
+      "email": "Eliseo@gardner.biz"  },
+    {
+      "postId": 100,
+      "id": 500,
+      "name": "ex eaque eum natus",
+      "email": "Emma@joanny.ca"
+    }
+  ]
+}
