@@ -3,14 +3,11 @@
     "postId": 1,
     "id": 1,
     "name": "id labore ex et quam laborum",
-    "email": "Eliseo@gardner.biz",
-    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
-  },
+    "email": "Eliseo@gardner.biz"  },
   {
     "postId": 100,
     "id": 500,
     "name": "ex eaque eum natus",
-    "email": "Emma@joanny.ca",
-    "body": "perspiciatis quis doloremque\nveniam nisi eos velit sed\nid totam inventore voluptatem laborum et eveniet\naut aut aut maxime quia temporibus ut omnis"
+    "email": "Emma@joanny.ca"
   }
 ]
