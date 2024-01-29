@@ -1,15 +1,28 @@
 {
-  "post":[
-    {
-      "postId": 1,
-      "id": 1,
-      "name": "id labore ex et quam laborum",
-      "email": "Eliseo@gardner.biz"  },
-    {
-      "postId": 100,
-      "id": 500,
-      "name": "ex eaque eum natus",
-      "email": "Emma@joanny.ca"
-    }
-  ]
+	"program":[
+		{
+			"id": 1,
+			"startDate": "2024-2-4 15:00",
+			"endDate": "2024-2-4 17:00",
+			"place": "浮間公園",
+			"status": "yet",
+			"registrant": "○○太郎"
+		},
+		{
+			"id": 2,
+			"startDate": "2024-2-5 19:00",
+			"endDate": "2024-2-5 21:00",
+			"place": "札幌",
+			"status": "lose",
+			"registrant": "○○太郎"
+		},
+		{
+			"id": 3,
+			"startDate": "2024-2-9 10:00",
+			"endDate": "2024-2-9 12:00",
+			"place": "日本橋",
+			"status": "win",
+			"registrant": "○○太郎"
+		}
+	]
 }
