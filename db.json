@@ -1,7 +1,7 @@
 {
 	"programs":[
 		{
-			"id": 1,
+			"program_id": "program1",
 			"startDate": "2024年2月4日 15:00",
 			"endDate": "2024年2月4日 17:00",
 			"place": "浮間公園",
@@ -14,7 +14,7 @@
 			}
 		},
 		{
-			"id": 2,
+			"program_id": "program2",
 			"startDate": "2024年2月5日 19:00",
 			"endDate": "2024年2月5日 21:00",
 			"place": "札幌",
@@ -27,7 +27,7 @@
 			}
 		},
 		{
-			"id": 3,
+			"program_id": "program3",
 			"startDate": "2024年2月9日 10:00",
 			"endDate": "2024年2月9日 12:00",
 			"place": "日本橋",
