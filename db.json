@@ -7,7 +7,10 @@
 			"place": "浮間公園",
 			"status": "yet",
 			"memo": "meomemomeomoemo",
-			"registrant": "user1"
+			"registrant": {
+				"display_name": "○○太郎",
+				"profile_url": "https://thumb.ac-illust.com/4e/4ee02896ca657f44bdf694968c5edbaf_t.jpeg"
+			}
 		},
 		{
 			"id": 2,
@@ -16,7 +19,10 @@
 			"place": "札幌",
 			"status": "lose",
 			"memo": null,
-			"registrant": "user2"
+			"registrant":  {
+				"display_name": "××次郎",
+				"profile_url": "https://1.bp.blogspot.com/-JlDPZ0L7GOk/VnE32vZ4ozI/AAAAAAAA16U/sIutVHdgoR0/s800/mouth_boy1_a.png"
+			}
 		},
 		{
 			"id": 3,
@@ -25,7 +31,10 @@
 			"place": "日本橋",
 			"status": "win",
 			"memo": null,
-			"registrant": "user1"
+			"registrant":  {
+				"display_name": "○○太郎",
+				"profile_url": "https://thumb.ac-illust.com/4e/4ee02896ca657f44bdf694968c5edbaf_t.jpeg"
+			}
 		}
 	],
 	"users":[
