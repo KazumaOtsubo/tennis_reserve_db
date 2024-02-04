@@ -16,7 +16,7 @@
 			"place": "札幌",
 			"status": "lose",
 			"memo": null,
-			"registrant": user2"
+			"registrant": "user2"
 		},
 		{
 			"id": 3,
@@ -51,7 +51,7 @@
 			"display_name": "★☆五郎",
 			"profile_url": "https://2.bp.blogspot.com/-w6-6pq_E91c/WK7fKkdo2rI/AAAAAAABCBU/78LxM0wBJo0BCBZQrDovF1ebzmWCO49iwCLcB/s800/pose_furikaeru_woman.png",
 			"login_id": null,
-			"login_password": nyll			
+			"login_password": null			
 		}
 	]
 }
