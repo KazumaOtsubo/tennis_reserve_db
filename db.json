@@ -1,12 +1,13 @@
 {
-	"program":[
+	"programs":[
 		{
 			"id": 1,
 			"startDate": "2024年2月4日 15:00",
 			"endDate": "2024年2月4日 17:00",
 			"place": "浮間公園",
 			"status": "yet",
-			"registrant": "○○太郎"
+			"memo": "meomemomeomoemo"
+			"registrant": "user1"
 		},
 		{
 			"id": 2,
@@ -14,7 +15,8 @@
 			"endDate": "2024年2月5日 21:00",
 			"place": "札幌",
 			"status": "lose",
-			"registrant": "○○太郎"
+			"memo": null,
+			"registrant": user2"
 		},
 		{
 			"id": 3,
@@ -22,7 +24,34 @@
 			"endDate": "2024年2月9日 12:00",
 			"place": "日本橋",
 			"status": "win",
-			"registrant": "○○太郎"
+			"memo": null
+			"registrant": "user1"
+		}
+	],
+	"users":[
+		{
+			"user_id": "user1",
+			"line_id": "line_id1",
+			"display_name": "○○太郎",
+			"profile_url": "https://thumb.ac-illust.com/4e/4ee02896ca657f44bdf694968c5edbaf_t.jpeg",
+			"login_id": "122233344",
+			"login_password": "222111222"			
+		},
+		{
+			"user_id": "user2",
+			"line_id": "line_id2",
+			"display_name": "××次郎",
+			"profile_url": "https://1.bp.blogspot.com/-JlDPZ0L7GOk/VnE32vZ4ozI/AAAAAAAA16U/sIutVHdgoR0/s800/mouth_boy1_a.png",
+			"login_id": "333444555",
+			"login_password": "11123456"			
+		},
+		{
+			"user_id": "user3",
+			"line_id": "line_id3",
+			"display_name": "★☆五郎",
+			"profile_url": "https://2.bp.blogspot.com/-w6-6pq_E91c/WK7fKkdo2rI/AAAAAAABCBU/78LxM0wBJo0BCBZQrDovF1ebzmWCO49iwCLcB/s800/pose_furikaeru_woman.png",
+			"login_id": null,
+			"login_password": nyll			
 		}
 	]
 }
