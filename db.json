@@ -6,7 +6,7 @@
 			"endDate": "2024年2月4日 17:00",
 			"place": "浮間公園",
 			"status": "yet",
-			"memo": "meomemomeomoemo"
+			"memo": "meomemomeomoemo",
 			"registrant": "user1"
 		},
 		{
@@ -24,7 +24,7 @@
 			"endDate": "2024年2月9日 12:00",
 			"place": "日本橋",
 			"status": "win",
-			"memo": null
+			"memo": null,
 			"registrant": "user1"
 		}
 	],
